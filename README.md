@@ -1,7 +1,6 @@
-# hadiezatpanah
 ### Hi everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=had3i/hadiezatpanah)
-[![Github](https://img.shields.io/github/followers/alisheykhi?label=Follow&style=social)](https://github.com/had3i)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=hadiezatpanah/hadiezatpanah)
+[![Github](https://img.shields.io/github/followers/hadiezatpanah?label=Follow&style=social)](https://github.com/had3i)
 
 
 <p align="center" >
@@ -49,5 +48,5 @@ Thank You for taking the time to view my GitHub Profile.
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="python" width="40" height="40"/> </a> 
  </p>
