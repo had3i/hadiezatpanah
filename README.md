@@ -48,6 +48,6 @@ Thank You for taking the time to view my GitHub Profile.
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" alt="airflow" width="40" height="40"/> </a> 
 <a href="https://nifi.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="python" width="40" height="40"/> </a> 
  </p>
