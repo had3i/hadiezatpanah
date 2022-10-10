@@ -1,5 +1,5 @@
 ### Hi everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=hadiezatpanah/hadiezatpanah)
+![](https://komarev.com/ghpvc/?username=hadiezatpanah)
 [![Github](https://img.shields.io/github/followers/hadiezatpanah?label=Follow&style=social)](https://github.com/hadiezatpanah)
 
 
